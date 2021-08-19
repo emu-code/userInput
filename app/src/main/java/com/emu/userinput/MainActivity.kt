@@ -19,7 +19,7 @@ class MainActivity : AppCompatActivity() {
         val trackTxt = binding.trackText
 
 
-        val button = binding.submitBtn
+        val  button = binding.submitBtn
         var displayText = binding.displayTxt
 
         button.setOnClickListener{
